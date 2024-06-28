@@ -1,8 +1,6 @@
 
                                   MEGAGLEST
 
-                     by Titus Tscharntke and Mark Vejvoda
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                               MegaGlest README
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -254,33 +252,4 @@ megaglest --help
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-7. Support and further information
-
-Further information:
-
-- The MegaGlest website:
-  https://megaglest.org
-
-- The MegaGlest wiki:
-  http://wiki.megaglest.org
-
-- Contact us (see below)
-
-
-Support:
-
-Please keep in mind that this is a completely volunteer run project. We do this
-in our spare time and look forward to meet people who try to fix problems on
-their own by reading up on available documentation before getting in touch.
-
-- The MegaGlest FAQ:
-  http://faq.megaglest.org
-
-- Post to the forums:
-  If you are reporting a bug, please be sure to read the bug reporting guide.
-  https://forum.megaglest.org
-
-- Contact us on IRC:
-  Network: irc.libera.chat
-  Channel: #megaglest
-  Or use the webchat at http://chat.megaglest.org/
+We are currently working to upload the game in the snap store!
